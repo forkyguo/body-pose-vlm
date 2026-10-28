@@ -1,0 +1,5 @@
+weights/
+weights_stage/
+__pycache__/
+*.log
+.DS_Store

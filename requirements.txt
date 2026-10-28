@@ -1,0 +1,12 @@
+torch>=2.6
+torchvision
+transformers>=4.57
+accelerate
+pillow
+numpy
+fastapi
+uvicorn
+requests
+pydantic
+# optional, recommended:
+# flash-attn  (pip install flash-attn --no-build-isolation)
